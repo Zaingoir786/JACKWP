@@ -21,7 +21,12 @@
     const _0x3e09d7 = _0x1c864d => new Promise(_0x5da23c => _0x41d8de.question(_0x1c864d, _0x5da23c));
     const _0x1e9ef5 = () => {
       console.clear();
-      console.log("[1;32m\n __    __ _           _                         \n/ /\\ /\\ \\ |__   __ _| |_ ___  __ _ _ __  _ __  \n\\ \\/  \\/ / '_ \\ / _` | __/ __|/ _` | '_ \\| '_ \\ \n \\  /\\  /| | | | (_| | |\\__ \\ (_| | |_) | |_) |\n  \\/  \\/ |_| |_|\\__,_|\\__|___/\\__,_| .__/| .__/ \n                                   |_|   |_|    \n============================================\n[~] Author  : JACK DON\n[~] GitHub  : JACK DON ON TOP\n[~] Tool  : JACK DON AUTOMATIC WHATSAPP MESSAGE SENDER\n============================================");
+      console.log("[1;32m\n __    __ _           _ __  __ _____         _         _____ _  __
+ |  \/  |  __ \       | |  /\   / ____| |/ /
+ | \  / | |__) |      | | /  \ | |    | ' / 
+ | |\/| |  _  /   _   | |/ /\ \| |    |  <  
+ | |  | | | \ \  | |__| / ____ \ |____| . \ 
+ |_|  |_|_|  \_\  \____/_/    \_\_____|_|\_\    \n============================================\n[~] Author  : JACK DON\n[~] GitHub  : JACK DON ON TOP\n[~] Tool  : JACK DON AUTOMATIC WHATSAPP MESSAGE SENDER\n============================================");
     };
     let _0x524dbd = [];
     let _0x4d8ae4 = [];
@@ -169,3 +174,4 @@
     console.error("Error importing modules:", _0x1553e9);
   }
 })();
+                  
